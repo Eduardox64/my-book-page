@@ -38,11 +38,11 @@ Figma: Para análise e implementação do design fornecido
 # 📱💻 Responsividade
 O projeto foi desenvolvido seguindo breakpoints para:
 
-Mobile (até 428px)
+Mobile (428px)
 
-Tablet (768px)
+Tablet (1024px)
 
-Desktop (1024px e acima)
+Desktop (1728px e acima)
 
 <hr/>
 
