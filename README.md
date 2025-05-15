@@ -18,16 +18,6 @@ Você pode visualizar o projeto ao vivo por meio da Vercel:
 ## 🎥 Preview do Projeto (GIF)
 
 ![Preview do site](./assets/preview.gif)
-
-## 🛠️ Tecnologias utilizadas
-
-- HTML5  
-- CSS3  
-- Design responsivo (mobile-first)
-- Media queries
-- Flexbox
-- Git e GitHub
-- **Vercel** (deploy)
   
 ## 💡 O que aprendi
 
